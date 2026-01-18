@@ -1,0 +1,13 @@
+.prank-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: transparent;
+}
+
+.prank-video {
+  width: 600px;
+  height: 500px;
+  object-fit: cover;
+}
