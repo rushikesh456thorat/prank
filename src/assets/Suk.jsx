@@ -14,7 +14,7 @@ function Suk() {
     }
 
     setError(false);
-    navigate("/result");
+    navigate("/resultt");
   };
 
   return (
